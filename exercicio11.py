@@ -25,6 +25,8 @@ def calcular_trapezio(B, b, h):
     return result
 
 #programa principal
+if __name__== "__main__":
+
 while True:
     mostrar_menu()
 
